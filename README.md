@@ -9,5 +9,5 @@ Check	point	2:	(30%)	 <br>
 Show	each	client’s	IP	and	port	number	on	the	screen	at	server	side.	<br>		
 Show	client’s	IP	and	port	on	the	screen	at	client	side.	<br>			
 Check	point	3:	(20%)	 <br>							
-Use	“tcpdump”	to	catch	packets	and	show	UDP	packets.	 
+Use	“tcpdump”	to	catch	packets	and	show	UDP	packets. <br>	 
 “sudo	tcpdump	---i	lo”							
